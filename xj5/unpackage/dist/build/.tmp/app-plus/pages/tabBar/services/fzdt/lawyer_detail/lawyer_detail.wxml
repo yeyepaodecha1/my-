@@ -1,0 +1,2 @@
+<import src="./lawyer_detail.vue.wxml" />
+    <template is="6e0d7293" data="{{ ...$root['0'], $root }}"/>

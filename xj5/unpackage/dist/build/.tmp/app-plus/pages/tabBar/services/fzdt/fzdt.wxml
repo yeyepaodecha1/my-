@@ -1,0 +1,2 @@
+<import src="./fzdt.vue.wxml" />
+    <template is="ca485bcc" data="{{ ...$root['0'], $root }}"/>

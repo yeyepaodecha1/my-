@@ -1,0 +1,1 @@
+<template name="dd743df4"><view class="_view dd743df4"><web-view webview-styles="{{webviewStyles}}" src="{{qjurl}}" class="_web-view dd743df4"></web-view></view></template>

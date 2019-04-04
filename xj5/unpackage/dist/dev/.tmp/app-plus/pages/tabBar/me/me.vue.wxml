@@ -1,0 +1,1 @@
+<template name="6558475d"><view class="_view 6558475d"><view class="_view 6558475d status_bar"><view class="_view 6558475d top_view"></view></view><web-view webview-styles="{{webviewStyles}}" src="http://xiaojie.xuejss.com/app/index.php?i=3&c=entry&ctrl=wmall&ac=member&op=mine&do=mobile&m=we7_wmall" class="_web-view 6558475d"></web-view></view></template>

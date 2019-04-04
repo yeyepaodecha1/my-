@@ -1,0 +1,1 @@
+<template name="3e31dc38"><view class="_view 3e31dc38"><view class="_view 3e31dc38 index-detail"><view class="_p 3e31dc38">{{banner.title}}</view><view class="_p 3e31dc38">{{banner.content}}</view><view class="_view 3e31dc38 fab-time">发布于:{{banner.createtime}} {{banner.city}}</view></view></view></template>

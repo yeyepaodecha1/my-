@@ -1,0 +1,1 @@
+<template name="19452824"><view class="_view 19452824"><view class="_view 19452824 index-detail"><view class="_p 19452824">{{banner.title}}</view><view class="_p 19452824">{{banner.content}}</view><view class="_view 19452824 fab-time">发布于:{{banner.createtime}} {{banner.city}}</view></view></view></template>

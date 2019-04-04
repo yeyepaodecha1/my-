@@ -1,0 +1,1 @@
+<template name="3fdc937d"><view class="_view 3fdc937d"><page-head title="{{title}}" class="_page-head 3fdc937d"></page-head><view class="_view 3fdc937d uni-common-mt"><view class="_view 3fdc937d"><map latitude="{{latitude}}" longitude="{{longitude}}" markers="{{covers}}" class="_map 3fdc937d"></map></view></view></view></template>

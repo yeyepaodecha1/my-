@@ -1,0 +1,2 @@
+<import src="./pfxf.vue.wxml" />
+    <template is="129a461d" data="{{ ...$root['0'], $root }}"/>

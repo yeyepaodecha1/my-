@@ -1,0 +1,1 @@
+<template name="afb2a16c"><view class="_view afb2a16c"><web-view webview-styles="{{webviewStyles}}" src="{{banner}}" class="_web-view afb2a16c"></web-view></view></template>

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {},
+  "navigationBarTitleText": "校园导览",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "titleNView": false
+}

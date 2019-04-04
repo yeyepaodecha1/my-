@@ -1,0 +1,2 @@
+<import src="./xqing.vue.wxml" />
+    <template is="256cea54" data="{{ ...$root['0'], $root }}"/>

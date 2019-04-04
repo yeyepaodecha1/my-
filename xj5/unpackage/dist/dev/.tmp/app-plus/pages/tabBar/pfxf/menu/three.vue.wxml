@@ -1,0 +1,1 @@
+<template name="19badce7"><view class="_view 19badce7"><web-view webview-styles="{{webviewStyles}}" src="http://xiaojie.xuejss.com/xw/toupiao/toupiaolist.php" class="_web-view 19badce7"></web-view></view></template>
